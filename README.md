@@ -14,6 +14,8 @@ O repositório está organizado em pastas, cada uma correspondente a um **labora
 
 ## Tecnologias Utilizadas
 
+Os laboratórios foram desenvolvidos em **Python**, principalmente em **Jupyter Notebook (`.ipynb`)**.
+
 - **Python**
 - **NumPy**
 - **OpenCV**
