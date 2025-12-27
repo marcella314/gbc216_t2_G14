@@ -4,14 +4,10 @@ Este repositório reúne os **laboratórios desenvolvidos na disciplina de Proce
 
 Os códigos e experimentos aqui apresentados abordam técnicas fundamentais de processamento e análise de imagens digitais, utilizando ferramentas e bibliotecas amplamente empregadas na área.
 
----
-
 ## Conteúdo do Repositório
 
 O repositório está organizado em pastas, cada uma correspondente a um **laboratório** da disciplina, incluindo códigos-fonte, imagens de teste e, quando aplicável, relatórios ou anotações.
 Os laboratórios foram desenvolvidos em **Python**, principalmente em **Jupyter Notebook (`.ipynb`)**.
-
----
 
 ## Tecnologias Utilizadas
 
